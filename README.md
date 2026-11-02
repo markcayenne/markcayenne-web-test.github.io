@@ -21,11 +21,10 @@ Bonjour, je suis **Mark** ! Passionné par le développement web et les nouvelle
 ---
 ## 🤖L'IA au service de l'Homme
 
-**L'intelligence artificielle n'a pas pour vocation de remplacer l'esprit humain, mais de**
----
- **décupler son potentiel.**
----
+**L'intelligence artificielle n'a pas pour vocation de remplacer l'esprit humain, mais de décupler son potenteil.**
+
 Au cœur des mutations numériques actuelles, l'IA s'impose comme un partenaire d'innovation incontournable. Loin d'être un substitut à la réflexion humaine, elle agit comme un véritable **catalyseur de compétences :**
+
 •	   **Libérer la créativité** en automatisant les tâches répétitives.
 •	   **Accélérer l'apprentissage** et la résolution de problèmes complexes.
 •	  **Optimiser le développement** et l'accès à la connaissance pour tous.
